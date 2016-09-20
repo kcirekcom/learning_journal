@@ -1,0 +1,5 @@
+# LJ Code 201 - Day 1
+
+<p>The biggest takeaway for me today was becoming more familiar with the Unix and Git commands along with the keyboard shortcuts. One of my greatest concerns with coding was becoming quicker and more efficient in navigating through the terminal and through applications on my laptop. I know with more practice that I will become more comfortable in navigating through text files and applications.</p>
+
+<p>It was also interesting working on the lab assignment for today and adding JavaScript elements into the HTML file. I haven't ever added JS elements directly into an HTML page and I wondered why it is not more common in code that I have observed. Turns out it's a very bad thing to do in coding! It makes sense though. It would make an HTML page much more complicated to read and work through. Won't ever be doing that again...</p>
