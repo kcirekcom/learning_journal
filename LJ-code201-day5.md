@@ -1,0 +1,3 @@
+# LJ Code 201 - Day 5
+
+I have enjoyed this course a lot so far. I'm learning so much and I don't feel as behind as I thought I would be. I'm still not yet satisfied with my portfolio webpage, but I'm going to continue working on it until I think it is the best representation of what I can do. I do feel like I'm understanding CSS more and more everyday. Looking forward to see what the new project will be for this upcoming week.
