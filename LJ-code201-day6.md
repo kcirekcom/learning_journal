@@ -1,0 +1,3 @@
+# LJ Code 201 - Day 6
+
+It was a very challenging day today and it sounds like the worst is yet to come. It took me a while to get the random number functions to work properly but I managed to do so and I really understood how to call properties outside of the object literal notation. It was frustrating when my code wouldn't work and it was because I was missing a comma. It's good practice to look out for these things that I may easily overlook since I'm not the most familiar with the notation within objects yet. Using the javascript elementById was fascinating. It's cool how you can manipulate HTML by doing so. Overall, I learned a lot from today's class that I know I can apply in the future.
