@@ -1,0 +1,3 @@
+# LJ Code 201 - Day 8
+
+I really appreciated Sam taking some extra time to guide us in a demo after lunch for us to learn more about the structuring of the cookie stand JavaScript file. I learned so much about the little things in organization in code that make all the difference. I don't feel as behind as I thought I would after these past 3 days. It's great to be able to understand the material and apply it to a project.
