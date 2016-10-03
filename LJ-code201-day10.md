@@ -1,0 +1,3 @@
+# LJ Code 201 - Day 10
+
+This past week was such a challenging week with creating the table in JavaScript. Fortunately, I have survived! I enjoyed working on the wireframe exercise over the weekend. I have developed a great appreciation for wireframes after working on the salmon cookie project. I wish I would've had a wireframe constructed for the salmon cookie public-facing page before I started. I really felt like the Peter Griffin GIF... At least now I've learned from this and won't make those mistakes again in the future.
