@@ -1,0 +1,2 @@
+# LJ Code 201 - Day 11
+There wasn't much to go over in lecture besides the lab assignment. Unfortunately, I wasn't able to finish it and got stuck on tracking the clicks per picture and how many times a picture displayed. I'll definitely need to collaborate with my peers to learn how to code the logic behind it. Overall, I'm pretty satisfied with where I'm at with this assignment so far. I'm eager to construct a chart for the results.
