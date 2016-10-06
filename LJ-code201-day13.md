@@ -1,0 +1,2 @@
+#LJ Code 201 - Day 13
+I'm really proud of what I've been able to accomplish in this course so far. I'm looking forward to working in a team during project week to utilize the things I've learned. I learned a lot this week that I can use for tons of projects in the future. I also really enjoyed hearing about the UI/UX part of lecture today. With my graphic design background, I was really able to the topics being discussed like page layout and typography.
