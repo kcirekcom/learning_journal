@@ -1,0 +1,2 @@
+#LJ Code 201 - Day 15
+I feel really good about where I'm at heading into project week. I'm really grasping the concepts and code for each of the lab assignments, especially JavaScript. I'm looking forward to building out the final project with my team. It will be great to work with an entire team to create something from beginning to end.
